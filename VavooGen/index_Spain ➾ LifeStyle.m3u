@@ -195,6 +195,13 @@ https://vavoo.to/play/3889113518/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3331961403/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR TVE (6)" tvg-logo="" group-title="Spain ➾ LifeStyle" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",STAR TVE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/2641666845/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE ELX (6)" tvg-logo="" group-title="Spain ➾ LifeStyle" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TELE ELX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
