@@ -6,13 +6,6 @@
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/2241927675/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="1+1 (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",1+1 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/229523379/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="24 TECHNO (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",24 TECHNO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -20,13 +13,6 @@ https://vavoo.to/play/229523379/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/4223838354/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="2X2 TV (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",2X2 TV (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/3157167544/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="360 TUNEBOX (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",360 TUNEBOX (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1189,13 +1175,6 @@ https://vavoo.to/play/3297014271/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1226383418/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="STRANA FM (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",STRANA FM (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/2307271920/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="TB 3 (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TB 3 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1210,13 +1189,6 @@ https://vavoo.to/play/2914341648/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/4178923922/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="TBC (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TBC (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/2026484172/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="TELEPUTESHESTVYA (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TELEPUTESHESTVYA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1329,13 +1301,6 @@ https://vavoo.to/play/2109325135/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3865793557/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-name="TV CENTER (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TV CENTER (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/2634253708/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-name="TV XXI (7)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TV XXI (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1826,20 +1791,6 @@ https://vavoo.to/play/1000329871/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3992435319/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=".BLACK (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",.BLACK (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/1140356951/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=".RED HD (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",.RED HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/2721165060/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=".SCI‑FI (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",.SCI‑FI (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1987,13 +1938,6 @@ https://vavoo.to/play/2801631824/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/4284671088/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DISCOVERY SCIENCE (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/66532237/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DORAMA (1)" tvg-logo="" group-title="Russia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DORAMA (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
