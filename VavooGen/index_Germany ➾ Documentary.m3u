@@ -48,13 +48,6 @@ https://vavoo.to/play/1873920201/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/1417464822/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DMAX (6)" tvg-logo="" group-title="Germany ➾ Documentary" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DMAX (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play/1016003547/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E! (6)" tvg-logo="" group-title="Germany ➾ Documentary" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",E! (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
