@@ -244,6 +244,13 @@ https://vavoo.to/play/4185335575.m3u8/index.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/3419730949.m3u8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KONYA OLAY TV (6)" tvg-logo="" group-title="Turkey ➾ LifeStyle" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",KONYA OLAY TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play/3242636339.m3u8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KOZA TV (6)" tvg-logo="" group-title="Turkey ➾ LifeStyle" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",KOZA TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
